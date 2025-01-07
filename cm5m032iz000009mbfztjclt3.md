@@ -7,7 +7,7 @@ cuid: cm5m032iz000009mbfztjclt3
 slug: advanced-git-top-6-version-control-hacks-that-saves-you-time
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1736224502853/9c5dd07c-ad12-47ee-a526-0b245e75c1d6.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1736225890960/a04cdab5-284b-4a50-ad1b-75dd0049e353.png
-tags: hackathon, github, technology, version-control, community, git, hacking, tech, hashnode, hacks, pull-requests, gitcommands, advanced-git, version-control-systems, khushitrivedi
+tags: github, technology, version-control, community, git, hacking, tech, hashnode, hacks, pull-requests, technical-writing-1, gitcommands, advanced-git, version-control-systems, khushitrivedi
 
 ---
 
