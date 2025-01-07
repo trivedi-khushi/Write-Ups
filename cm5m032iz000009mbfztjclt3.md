@@ -1,7 +1,7 @@
 ---
 title: "Advanced GIT - Top 6 Version Control Hacks That Saves You Time"
 seoTitle: "Git Version Control: Top 6 Time-Saving Hacks"
-seoDescription: "Top six Git & GitHub command hacks to save your hours "
+seoDescription: "Top six Git & GitHub command hacks to save your hours"
 datePublished: Tue Jan 07 2025 04:58:40 GMT+0000 (Coordinated Universal Time)
 cuid: cm5m032iz000009mbfztjclt3
 slug: advanced-git-top-6-version-control-hacks-that-saves-you-time
