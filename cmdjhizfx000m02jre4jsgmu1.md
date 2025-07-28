@@ -13,7 +13,9 @@ tags: docker, github, opensource, community, apis, hashnode, swagger, rest-api, 
 
 ## 💼Project Overview
 
-The **OpenAPI Sample Library** is a modular and extensive documentation project designed to simplify interaction with various APIs (GitHub, Jira, Notion, Slack, and Stripe). The project utilizes the latest OpenAPI 3.0 specification and serves as a combination of hands-on technical documentation with developer experience (DevEx).
+**<mark>Project Link - </mark>** [**<mark>https://github.com/trivedi-khushi/openapi-sample-library/</mark>**](https://github.com/trivedi-khushi/openapi-sample-library/)
+
+The **OpenAPI Sample Library** is a modular and extensive documentation project designed to simplify interaction with various APIs (GitHub, Jira, Notion, Slack, and Stripe). The project utilizes the latest OpenAPI 3.0 specification and serves as a combination of hands-on technical documentation with developer experience (DevEx). [Reposiorty Link](https://github.com/trivedi-khushi/openapi-sample-library/)
 
 This project brings together real-world API Endpoints from 5 widely-used developer platforms, each with different use cases. OpenAPI Sample Library showcases how to write, structure, test, lint, debug, and publish OpenAPI specs in a scalable and professional way.
 
@@ -233,7 +235,7 @@ The following steps answer the question which most beginner contributors might b
 
 **Step-8:** Automated checks will pass before submitting your MR. Here’s what to do in each case:
 
-*  All checks pass (green)→ PR gets submitted to the reviewer.
+* All checks pass (green)→ PR gets submitted to the reviewer.
     
 * Something fails (red) → review the logs, fix, and push again.
     
